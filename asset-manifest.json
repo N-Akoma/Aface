@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Aface/static/css/main.69cd9325.chunk.css",
+    "main.js": "/Aface/static/js/main.e2f660d8.chunk.js",
+    "main.js.map": "/Aface/static/js/main.e2f660d8.chunk.js.map",
+    "runtime~main.js": "/Aface/static/js/runtime~main.80bcf50d.js",
+    "runtime~main.js.map": "/Aface/static/js/runtime~main.80bcf50d.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Aface/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.6d9fd9c1.chunk.js": "/Aface/static/js/2.6d9fd9c1.chunk.js",
+    "static/js/2.6d9fd9c1.chunk.js.map": "/Aface/static/js/2.6d9fd9c1.chunk.js.map",
+    "index.html": "/Aface/index.html",
+    "precache-manifest.42edeb885270b8f4243638fc06cbe61a.js": "/Aface/precache-manifest.42edeb885270b8f4243638fc06cbe61a.js",
+    "service-worker.js": "/Aface/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Aface/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.69cd9325.chunk.css.map": "/Aface/static/css/main.69cd9325.chunk.css.map"
+  }
+}
